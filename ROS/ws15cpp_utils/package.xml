@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>ws15cpp_utils</name>
+  <version>0.0.0</version>
+  <description>The ws15cpp_utils package</description>
+
+  <maintainer email="marco.esposito@tum.de" >Marco Esposito</maintainer>
+
+  <license>GPLv3</license>
+
+  <author email="marco.esposito@tum.de" >Marco Esposito</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>

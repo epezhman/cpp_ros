@@ -1,0 +1,7 @@
+ndims = 3
+dimsize = 10 10 10
+elementspacing = 0.015 0.015 0.025
+elementtype = MET_FLOAT
+elementbyteordermsb = false
+offset = 0 0 0
+elementdatafile = lshape.mhd.raw

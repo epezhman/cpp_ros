@@ -1,0 +1,5 @@
+bin/*
+!bin/ws15cpp_trajectoryModified.csv
+!bin/ct-test
+.gitignore~
+README.md~

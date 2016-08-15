@@ -1,0 +1,2 @@
+/home/milad/Documents/Neda-c++praktikum/Project/CppFinalProject/CMakeFiles/CppProject_automoc.dir
+/home/milad/Documents/Neda-c++praktikum/Project/CppFinalProject/CMakeFiles/CppProject.dir
